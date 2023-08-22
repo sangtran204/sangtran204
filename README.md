@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Front-End Developer:
 
 - :telescope: My interest lies in front-end web development, Data Science, Machine Learning and Deep Learning.
   
