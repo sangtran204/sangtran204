@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
 <h3>👨🏽‍💻 I am a Frontend Engineer</h3>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 
   
