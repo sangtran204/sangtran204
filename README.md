@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
 - :telescope:I am a Frontend Engineer.
+
 - :telescope: My interest lies in front-end web development, Data Science, Machine Learning and Deep Learning.
+  
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 
