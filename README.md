@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
-<h3 align="center">A passionate frontend developer from VN</h3>
+<h3>👨🏽‍💻 I am a Frontend Engineer</h3>
 
 
   
