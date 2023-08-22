@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
 I am a Front-End Developer:
 
-- :telescope: My interest lies in front-end web development, Mobile Developer.
+- :telescope: My interest lies in front-end web development, Mobile Developer and Full Stack Web.
   
 - :seedling: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
