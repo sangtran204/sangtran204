@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
-I am a Front-End Developer:
+I am a Frontend Engineer:
 
 - :telescope: My interest lies in front-end web development, Mobile Developer and Full Stack Web.
   
