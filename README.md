@@ -5,7 +5,7 @@ I am a Front-End Developer:
   
 - :seedling: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-
+- How to reach me asangg.tr@gmail.com
   
   <p align="center"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="50%" height="50%" alt="sangtran204" /> </p>
 
