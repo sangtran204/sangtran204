@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sang Tran</h1>
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - :telescope: My interest lies in front-end web development, Data Science, Machine Learning and Deep Learning.
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 
   
